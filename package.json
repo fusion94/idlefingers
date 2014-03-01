@@ -1,7 +1,7 @@
 {
   "name": "idlefingers",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "description": "A port of the idlefingers theme from TextMate",
   "repository": "https://github.com/fusion94/idlefingers",
